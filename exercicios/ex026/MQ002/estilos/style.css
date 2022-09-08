@@ -10,8 +10,14 @@ html, body {
    width: 100vw;
    height: 100vh;
    background-color: #233eff;
-   color: whitesmoke;
+   
    
    background-size: cover;
    background-repeat: no-repeat;
+}
+
+h1 {
+   color: rgb(201, 57, 57);
+   margin: 30px;
+   font-size: 1.5em;
 }
